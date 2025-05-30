@@ -13,4 +13,4 @@ This repository contains the coursework and projects for CSE428: Image Processin
 - **Name**: Fahad Nadim Ziad
 
 ## Repository Contents
-This repository contains various image processing projects, assignments, and related materials throughout the course.
+This repository contains various image processing lectures, assignments, and related materials throughout the course.
